@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Game doi khang ver 1",
+  "description": "Hệ thống ôn luyện trực tuyến với chế độ toàn lớp và cá nhân, tích hợp AI tạo đề.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
